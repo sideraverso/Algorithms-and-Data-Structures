@@ -2,7 +2,7 @@
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks for George Heineman _Introduction to algorithms and data structures_. It contains both the exercises (/notebooks), possibly the solutions (/solutions), as well as any data or files needed (/data).
+This project contains the Jupyter Notebooks for George Heineman _Introduction to algorithms and data structures_. It contains both the exercises (/notebooks), as well as any data or files needed.
 
 You can run the notebooks [here](https://learning.oreilly.com/jupyter-notebooks/~/9781492062912). You must be signed into learning.oreilly.com
 
