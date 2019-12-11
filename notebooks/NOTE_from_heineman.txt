@@ -1,5 +1,0 @@
-this dictionary contains the only external data I need. 
-I originally have it here for access from my notebook.
-Should it be moved to data/ one level up? 
-
-If so, how would this be done?
