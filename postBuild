@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONTEXT_IDENTIFIER='0636920388104'
+CONTEXT_IDENTIFIER='0636920455349'
 NOTEBOOK_FPID='9781492062912'
 
 # timestamp to invalidate JupyterHub server cache
